@@ -1,5 +1,5 @@
 let muerte = 5
-console.log('Hola Mundogit add ')
+console.log('Pablo')
 prompt('Usuario')
 if (muerte === 5){
      alert('Jacinto')
