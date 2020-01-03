@@ -1,7 +1,12 @@
 let muerte = 5
-console.log('Pablo')
-prompt('Usuario')
+
+console.log('Pedro')
+prompt('Pablo')
+
 if (muerte === 5){
+
      alert('Jacinto')
+
 }
-document.write('Jose')
+
+document.write('<p>Jose</p>')

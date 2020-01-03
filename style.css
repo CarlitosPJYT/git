@@ -1,5 +1,50 @@
 body{background: #000000;}
 header{
      background: #00ff00;
-     
+     margin: 10px;
+     padding: 10px;
+}
+header h1{
+     background: #0000ff;
+     color: #ff0000;
+     cursor: pointer;
+     text-align: center;
+}
+nav{
+     background: #ff0000;
+     padding: 10px;
+}
+input:hover{
+     cursor: pointer;
+     text-decoration: underline;
+}
+div{
+     background: #ffffff;
+     float: left;
+     padding: 10px;
+}
+section{
+     background: #cccccc;
+     display: inline-block;
+     margin: 10px;
+     padding: 10px;
+     width: 30%;
+}
+section h1{
+     background: #ffffff;
+     cursor: pointer;
+     text-align: center;
+}
+section p{text-align: justify;}
+footer{
+     background: transparent;
+     float: left;
+     margin: 10px;
+     padding: 10px;
+     width: 940px;
+}
+footer p{
+     color: #cccccc;
+     cursor: pointer;
+     text-align: center;
 }
