@@ -1,0 +1,46 @@
+body{background: #000000;}
+header{
+     background: #00ff00;
+     margin: 0.5%;
+     padding: 1em;
+}
+header h1{
+     background: #0000ff;
+     color: #ff0000;
+     cursor: pointer;
+     text-align: center;
+}
+nav{
+     background: #ff0000;
+     padding: 1em;
+}
+input{cursor: pointer;}
+div{
+     background: #ffffff;
+     padding: 1em;
+}
+section{
+     background: #cccccc;
+     display: inline-block;
+     margin: 0.5%;
+     padding: 1em;
+     vertical-align: top;
+     width: 30%;
+}
+section h1{
+     background: #000000;
+     color: #ffffff;
+     cursor: pointer;
+     text-align: center;
+}
+section p{text-align: justify;}
+section p:last-child::first-letter{
+     float: left;
+     font-size: 2.3em;
+     line-height: 1;
+}
+footer{background: transparent;}
+footer p{
+     color: #cccccc;
+     text-align: center;
+}

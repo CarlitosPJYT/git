@@ -1,5 +1,3 @@
-let Usuario = 'Jacinto'
-
 console.log('Pablo')
 
 setTimeout(() => {
@@ -8,4 +6,8 @@ setTimeout(() => {
 
 }, 5000);
 
-prompt('Usuario')
+if (5 === 5){
+     
+     prompt('Jose')
+
+}
